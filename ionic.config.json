@@ -1,0 +1,7 @@
+{
+  "name": "Marcacao",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
